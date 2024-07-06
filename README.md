@@ -4,15 +4,17 @@ This repository contains the implementation of a deep learning project focused o
 
 ## Project Structure
 # Problem Statement
-![Screenshot 2024-07-05 175649](https://github.com/Rahul-Yadav-Github/BeamDisplacement/assets/172898765/3e82528b-6b64-41e5-b3ae-560fc2fdfc2f)
+![Screenshot 2024-07-05 175649](https://github.com/Rahul-Yadav-Github/BeamDisplacement/assets/172898765/fa4b39b9-d7cf-4474-b80d-46b2d85df6c8)
+![Screenshot 2024-07-05 175713](https://github.com/Rahul-Yadav-Github/BeamDisplacement/assets/172898765/7c915d9b-afdd-43c8-9778-1e3fdc7c875b)
 
-![Screenshot 2024-07-05 175713](https://github.com/Rahul-Yadav-Github/BeamDisplacement/assets/172898765/480418b2-9283-495c-b6e6-b1dd03082cd4)
+![Screenshot 2024-07-05 175748](https://github.com/Rahul-Yadav-Github/BeamDisplacement/assets/172898765/55e2ca17-9c56-4cf8-893e-2eeb1cab1856)
+![Screenshot 2024-07-05 175809](https://github.com/Rahul-Yadav-Github/BeamDisplacement/assets/172898765/5e30d1e0-4a73-4080-a324-4737ac479986)
 
-![Screenshot 2024-07-05 175748](https://github.com/Rahul-Yadav-Github/BeamDisplacement/assets/172898765/eab58220-f074-42dc-8a5f-fefd86dba4f0)
+![Screenshot 2024-07-05 175826 - Copy](https://github.com/Rahul-Yadav-Github/BeamDisplacement/assets/172898765/1ea1764b-a0cd-436e-8280-fe7f3f8879ab)
 
-![Screenshot 2024-07-05 175809](https://github.com/Rahul-Yadav-Github/BeamDisplacement/assets/172898765/60190ff6-5996-4e5c-99a4-ee68e2e2b502)
-![Screenshot 2024-07-05 175826](https://github.com/Rahul-Yadav-Github/BeamDisplacement/assets/172898765/cce1d1ad-8e79-4f36-8820-d80424b3f0d0)
-![Screenshot 2024-07-05 175846](https://github.com/Rahul-Yadav-Github/BeamDisplacement/assets/172898765/dbed66a5-5327-4367-989f-a90e495e7f42)
+![Screenshot 2024-07-05 175846](https://github.com/Rahul-Yadav-Github/BeamDisplacement/assets/172898765/235723e3-2a43-46e4-ac02-0e7a2fb7cb1e)
+
+
 
 ## Project Structure
 <!DOCTYPE html>
