@@ -1,0 +1,5 @@
+beam_topologies/
+├── topology_1.npy
+├── topology_2.npy
+├── topology_3.npy
+└── ...

@@ -1,0 +1,12 @@
+
+## Requirements
+
+- numpy
+- torch
+- torchvision
+
+## How to Run
+
+1. Install the required packages:
+   ```bash
+   pip install -r requirements.txt
